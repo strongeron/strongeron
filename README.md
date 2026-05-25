@@ -11,7 +11,7 @@ observability tools — design and code on one screen.
 
 #### Recent work
 
-- **[Miru](https://evilmartians.com/cases/miru)** — graph-native cybersecurity investigation platform. *0 → MVP in 7 months.*
+- **[Miru](https://evilmartians.com/clients/startup-stealth-mode)** — graph-native cybersecurity investigation platform. *0 → MVP in 7 months.*
 - **[GMI Cloud](https://evilmartians.com/chronicles/gmi-cloud-meets-webflow-and-speeds-ahead-in-the-ai-compute-race)** — AI compute redesign. *12 pages, 3D visuals, shipped in 3.5 weeks.*
 
 #### Open source
